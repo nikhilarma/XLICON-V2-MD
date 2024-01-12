@@ -15,9 +15,9 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['233533763772','923184070915', '94789481495', '923184474176'] 
-global.prems = ['923184070915', '233533763772', '94789481495', '918360234087']
-global.allowed = ['923184070915', '233533763772', '94789481495', '918360234087']
+global.mods = ['919755062790','917067432198', '918827062791', '919630863919'] 
+global.prems = ['919755062790', '917067432198', '918827062791', '919630863919']
+global.allowed = ['919755062790', '917067432198', '918827062791', '919630863919']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -57,9 +57,9 @@ global.premium = 'true'
 global.packname = '🖤⏤͟͟͞͞ ×͜× ᴄ͢͢͢ʀɪᴍɪɴᴀʟ࿐' 
 global.author = '◣‸◢ ｍǝőw' 
 global.menuvid = 'https://telegra.ph/file/703e87038ae37397faf46.mp4'
-global.igfg = '\n' 
+global.igfg = '' 
 global.dygp = ''
-global.fgsc = '' 
+global.fgsc = 'https://github.com/nikhilarma/XLICON-V2-MD/tree/main?tab=readme-ov-file' 
 global.fgyt = ''
 global.fgpyp = ''
 global.fglog = '◣‸◢ ｍǝőw.jpg' 
